@@ -1,16 +1,16 @@
 ### Hi there 👋
+I'm **Vivek Kumar**, a **software Engineer** by profession.
+I'm 6 years old in this profession, this will be continue until I am instrested. I think it will be long.
+Here share my code and knowlegde.
 
-<!--
-**guptaviv1/guptaviv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on
+- [x] Javascript
+- [x] Angular
+- [x] Node
+- [x] Mongo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: viv1g3pta@gmail.com
+- Skype: viv1g3pta
+- Mobile: 9717165774
+- Website: [daddyintech.com](https:www.//daddyintech.com/)
