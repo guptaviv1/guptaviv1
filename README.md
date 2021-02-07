@@ -14,4 +14,4 @@ Here share my code and knowlegde.
 - Email: viv1g3pta@gmail.com
 - Skype: viv1g3pta
 - Mobile: 9717165774
-- Website: [daddyintech.com](https:www.//daddyintech.com/)
+- Website: [daddyintech.com](https://www.daddyintech.com/)
