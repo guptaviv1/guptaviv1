@@ -10,7 +10,7 @@ Here share my code and knowlegde.
 - [x] Mongo DB
 - [ ] And many more things.
 
-//### 📫 How to reach me
-//- Email: viv1g3pta@gmail.com
-//- Skype: viv1g3pta
-//- Mobile: 9717165774
+<!---### 📫 How to reach me
+- Email: viv1g3pta@gmail.com
+- Skype: viv1g3pta
+- Mobile: 9717165774 --->
