@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **Vivek Kumar**, a **Software Engineer** by profession.  
-I'm 6 years old in this profession, this will be continue until I am intrested. I think it will be long.  
+I'm 7 years old in this profession, this will be continue until I am intrested. I think it will be long.  
 Here share my code and knowlegde.
 
 ### 🔭 I’m currently working on
